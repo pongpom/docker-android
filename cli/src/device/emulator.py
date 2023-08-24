@@ -23,6 +23,7 @@ class Emulator(Device):
         "Samsung Galaxy S8",
         "Samsung Galaxy S9",
         "Samsung Galaxy S10"
+        "Samsung Galaxy S20"
     )
 
     API_LEVEL = {
